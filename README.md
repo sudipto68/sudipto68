@@ -6,5 +6,5 @@
 - 👯 I’m mostly active on Flutter community and meme stuff.
 - ⚗️ Improving the efficiency of my code.
 - 💬 Ask me about Flutter.
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Facebook - @sudiptomitro](https://www.facebook.com/sudipto.kumar.mitro/)
 - 😄 Pronouns: He/His
