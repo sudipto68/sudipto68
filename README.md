@@ -1,11 +1,11 @@
 ### Hello, I'm Sudipto Kumar Mitra! 👋
 
 
-- 🔭 I’m currently working on Flutter.
-- 🌱 I’m currently learning Flutter
-- 👯 I’m mostly active on Flutter community and meme stuff.
+- 🔭 I’m currently working on React Js.
+- 🌱 I’m currently learning React Js and Flutter
+- 👯 I’m mostly active on Flutter and Javascript community and meme stuff.
 - ⚗️ Improving the efficiency of my code.
-- 💬 Ask me about Flutter.
+- 💬 Ask me about Nothing 😄.
 - 📫 How to reach me: [Facebook - @sudiptomitro](https://www.facebook.com/sudipto.kumar.mitro/)
 - 😄 Pronouns: He/His
 
