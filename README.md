@@ -1,7 +1,7 @@
 ### Hello, I'm Sudipto Kumar Mitra! 👋
 
 
-- 🔭 I’m currently working on React Js.
+- 🔭 I’m currently working on React Js and Drupal.
 - 🌱 I’m currently learning React Js and Flutter
 - 👯 I’m mostly active on Flutter and Javascript community and meme stuff.
 - ⚗️ Improving the efficiency of my code.
