@@ -5,7 +5,7 @@
 - 🌐 &nbsp; HTML | CSS | SCSS | JavaScript | ReactJS | NextJS | Drupal | React Native
 - 🛢 &nbsp; NodeJS | Express | MongoDB | 
 - 🔧 &nbsp; Git | Github
--- 🔧 &nbsp; Linux | Nginx
+- 🔧 &nbsp; Linux | Nginx
 
 <img src="https://github-readme-stats.vercel.app/api?username=sudipto68&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
