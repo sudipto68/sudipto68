@@ -2,7 +2,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript | ReactJS | NextJS | Drupal | React Native
+- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript | ReactJS | NextJS | Drupal | Flutter
 - 🛢 &nbsp; NodeJS | Express | MongoDB | 
 - 🔧 &nbsp; Git | Github
 - 🔧 &nbsp; Linux | Nginx
