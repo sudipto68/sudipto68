@@ -29,9 +29,10 @@
 ### Tech Stack:
 <img align="left" alt="sudipto68 | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 <img align="left" alt="sudipto68 | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
-<img align="left" alt="sudipto68 | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
-<img align="left" alt="sudipto68 | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" alt="sudipto68 | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />
+<img align="left" alt="sudipto68 | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" alt="sudipto68 | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<img align="left" alt="sudipto68 | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
 <img align="left" alt="sudipto68 | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 <img align="left" alt="sudipto68 | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" />
 <img align="left" alt="sudipto68 | pub" width="22px" src="https://simpleicons.org/icons/drupal.svg" />
