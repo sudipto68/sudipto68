@@ -1,13 +1,16 @@
 <img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="250px">
 
 ### Hi, I'm [Sudipto Kumar Mitra](https://github.com/sudipto68) 
+I'm a software engineer and web developer with over 4 years of experience, specializing in Frontend Development. My journey in the tech world has been largely shaped by my love for JavaScript, which I use to build dynamic, responsive, and engaging user interfaces. Alongside JavaScript, I've also become passionate about Python for its simplicity, versatility adding a robust layer to my technical toolkit.
+
+I’ve spent years refining my skills in modern frontend frameworks, focused on creating scalable, maintainable applications that deliver high performance and reliability. Crafting seamless user experiences is something I take pride in, and I’m always exploring ways to push the boundaries of what's possible on the web.
 
 
 ![](https://komarev.com/ghpvc/?username=mdsami&color=brightgreen&style=flat)
 
 - 🌱 I’m currently trying to learn Python, Django & Next.Js.
 - 👯 I’m looking to collaborate on **anything free and open source**.
-- 💬 Ask me about Drupal, JavaScript, React.Js.
+- 💬 Ask me about Drupal, JavaScript, React.js, Vue.js.
 - 📫 How to reach me **sudiptomitro2016@gmail.com**
 - ⚡ Fun fact: I spend almost 2 hours surfing & learning new things on the internet every day. I love to keep myself updated!!
 
