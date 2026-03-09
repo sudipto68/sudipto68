@@ -5,6 +5,8 @@ I'm a software engineer and web developer with over 4 years of experience, speci
 
 I’ve spent years refining my skills in modern frontend frameworks, focused on creating scalable, maintainable applications that deliver high performance and reliability. Crafting seamless user experiences is something I take pride in, and I’m always exploring ways to push the boundaries of what's possible on the web.
 
+🌍 Open to remote & new opportunities.
+
 
 ![](https://komarev.com/ghpvc/?username=mdsami&color=brightgreen&style=flat)
 
